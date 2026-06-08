@@ -190,7 +190,7 @@ https://youtu.be/9dqCtk7MN-U
 Source code available here:
 
 ```text
-<GitHub Repository Link>
+https://github.com/srikanthvodnala21/arduino-gps/blob/main/gps-code.ino
 ```
 
 ---
